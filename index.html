@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Halte bien-être</title>
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+  <link rel="stylesheet" href="assets/css/hint.css" />
+
+  <!-- Embla Carousel -->
+  <script src="https://unpkg.com/embla-carousel/embla-carousel.umd.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+  <script src="assets/js/footer.js" defer></script>
+  <script src="assets/js/hint.js" defer></script>
+</head>
+
+<body class="kiosk kiosk--home">
+  <a class="skip-link" href="#main">Aller au contenu principal</a>
+  <header class="topbar">
+    <a class="brand brand--link" href="https://bib.umontreal.ca" aria-label="Aller au site des Bibliothèques de l'Université de Montréal">
+      <img class="brand__logo" src="assets/img/logo-bib.svg" alt="Bibliothèques — logo" />
+    </a>
+
+    <a class="titlewrap titlewrap--link" href="/" aria-label="Retour à l'accueil">
+      <h1 class="title">Halte bien-être</h1>
+      <img class="title__icon" src="assets/img/bien-etre-incone.svg" alt="" aria-hidden="true" />
+    </a>
+
+  </header>
+
+  <main class="main main--home" id="main">
+    <div class="panels" id="categoryPanels" aria-live="polite"></div>
+  </main>
+
+  <div id="hintMount" data-hint-src="assets/partials/hint.html"></div>
+  <div id="footerMount" data-footer-src="assets/partials/footer.html"></div>
+</body>
+</html>

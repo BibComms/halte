@@ -1,0 +1,110 @@
+.main--home .hint{order:-1}
+
+.hint{height: auto}
+.hint__card{
+  height: auto;
+  background: rgba(255,255,255,.06);
+  border: 1px solid var(--stroke);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 18px;
+  position:relative;
+}
+.hint__hero{
+  width:100%;
+  aspect-ratio: 3 / 1;
+  border-radius: 14px;
+  background:
+    linear-gradient(135deg, rgba(96,165,250,.35), rgba(34,211,238,.2)),
+    radial-gradient(60% 90% at 70% 20%, rgba(209,219,16,.25), transparent 60%),
+    rgba(255,255,255,.05);
+  border: 1px solid rgba(255,255,255,.10);
+  margin-bottom: 12px;
+  position: relative;
+  overflow: hidden;
+}
+.hint__hero-icon{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: clamp(72px, 16vw, 120px);
+  height: auto;
+  transform: translate(-50%, -50%);
+  filter: drop-shadow(0 6px 20px rgba(0,0,0,.28));
+  pointer-events: none;
+}
+.hint__close{
+  position:absolute;
+  top:12px;
+  right:12px;
+  width:32px;
+  height:32px;
+  padding:0;
+  border-radius: 999px;
+  border: 1px solid var(--stroke);
+  background: rgba(0,0,0,.25);
+  color: var(--text);
+  font-weight:700;
+  font-size:13px;
+  cursor:pointer;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+}
+.hint__close:hover{
+  background: rgba(255,255,255,.12);
+}
+.hint__title{font-weight:800; margin:0 0 8px 0}
+.hint__text{color: var(--muted); line-height:1.5}
+.hint__text p{margin: 0 0 10px 0}
+.hint__text p:last-child{margin-bottom:0}
+.hint__lead{color: var(--text); font-weight:700}
+.hint__list{
+  margin: 6px 0 12px 18px;
+  padding:0;
+}
+.hint__list li{margin: 4px 0}
+.hint__contact{color: var(--text)}
+.hint__link{
+  color: var(--text);
+  font-weight:700;
+}
+.hint__link:hover{
+  color: #fff;
+}
+.hint__thanks{font-weight:800; color: var(--text)}
+
+.modal--hint .modal__content{
+  grid-template-columns: 1fr;
+}
+.modal--hint .modal__panel{
+  inset: 50% auto auto 50%;
+  transform: translate(-50%, -50%);
+  width: min(92vw, 560px);
+  max-height: 80vh;
+}
+.modal--hint .modal__content{
+  padding: 14px 16px;
+}
+.modal--hint .hint__card{
+  padding: 14px;
+}
+.modal--hint #hintCloseBtn{
+  width: 42px;
+  height: 42px;
+  padding: 0;
+  font-size: 22px;
+  line-height: 1;
+}
+
+@media (max-width: 600px){
+  .modal--hint .modal__panel{
+    width: min(92vw, 520px);
+    max-height: 78vh;
+  }
+}
+
+@media (max-width: 1024px){
+  .hint{height:auto}
+  .hint__card{height:auto}
+}

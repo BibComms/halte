@@ -1,0 +1,289 @@
+[
+{
+  "id": "neuropods",
+  "title": "Les Neuropods",
+  "type": "balado",
+  "duration_min": 90,
+  "category": ["Balado, UdeM"],
+  "cover": "assets/img/covers/neuropods.jpg",
+  "description": "Explorez le mieux-être étudiant à travers la lentille de la neuropsychologie avec les neuropsychologues Anne-Laure Macé et Magalie Loiselle.",
+  "player": {
+    "kind": "spotify_embed",
+    "src": "https://open.spotify.com/episode/5h5ErilT3OgfjWjsSqU16L",
+    "episodes": [
+      { "label": "Épisode 1 - S.O.S cerveau fatigué", "uri": "spotify:episode:5h5ErilT3OgfjWjsSqU16L?si=7a83fd3ef93b4dbc" },
+      { "label": "Épisode 2 - Cerveau concentré", "uri": "spotify:episode:7gVK3v98nGJBvsqL6lW8iA?si=662d5fe975c841fd" },
+      { "label": "Épisode 3 - Cerveaux uniques, potentiel infini!", "uri": "spotify:episode:5e2rSZT2rtypL1dLefhRbt?si=da46993bef0a4bfc" }
+    ]
+  }
+},
+  {
+    "id": "respiration-zen",
+    "title": "Exercice de respiration anti-stress",
+    "type": "video",
+    "duration_min": 6,
+    "level": "Calme & focus",
+    "category": ["Respiration"],
+    "cover": "assets/img/covers/image.webp",
+    "description": "Pour se détendre en quelques minutes.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "h27KOtqRWeQ",
+      "start": 0
+    }
+  },
+    {
+    "id": "respiration-448",
+    "title": "Exercice de respiration en 4-4-8",
+    "type": "video",
+    "duration_min": 7,
+    "level": "Calme & focus",
+    "category": ["Respiration"],
+    "cover": "assets/img/covers/respiration448.png",
+    "description": "5 minutes pour apaiser le système nerveux et les fluctuations du mental. Une pratique de respiration lente et consciente pour prendre une pause et se recentrer à tout moment de la journée. En allongeant l'expiration, cette technique de respiration favorise la branche parasympathique du système nerveux, en charge de la détente, de la relaxation et des mécanismes anti-stress du corps.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "FZZPXR_5s_c",
+      "start": 0
+    }
+  },
+  {
+  "id": "mignardises",
+  "title": "Mignardises littéraires",
+  "type": "balado",
+  "duration_min": 90,
+  "category": ["Balado", "coup de coeur"],
+  "cover": "assets/img/covers/mignardises.jpg",
+  "description": "Chaque épisode vous propose d'écouter la création littéraire d’un étudiant ou d’une étudiante, lue par les interprètes de la troupe Théâtre Université de Montréal.",
+  "player": {
+    "kind": "spotify_embed",
+    "src": "https://open.spotify.com/show/617MF11esJlulDeRWEk8g5",
+    "episodes": [
+    { "label": "Tribulations salivaires et gueule de bois", "uri": "spotify:episode:5v6b0AvKSA6C7C8OEdE57h?si=b4fcf7df092c4414" },
+    { "label": "La pluie d’injures ", "uri": "spotify:episode:3jFIfJAbbyKpRccXidO4aT?si=48f8ca03a59f4c30" },
+    { "label": "Alea Jacta Est ", "uri": "spotify:episode:57LIlAI2W3WhlBsP92B0Rk" },
+    { "label": "Je me sens disparaître ", "uri": "spotify:episode:5QV0oifTKi7ZJ9JqS4dGPb" },
+    { "label": "Si je me concentre sur la goutte, est-ce qu’elle va s’en aller? ", "uri": "spotify:episode:1DbAYOKRUwLFwhQQxlPGaQ" },
+    { "label": "Captive", "uri": "spotify:episode:20yKMC62F6UW8ekF7SRt4B" },
+    { "label": "Momo le macchabée", "uri": "spotify:episode:5jEqBZUfGEx8YO3DKYMaDs?si=1aa7db0ab00340d8" },
+    { "label": "Le sol natal", "uri": "spotify:episode:62qt579egrVko27RUSIKDL" },
+    { "label": "À la barre", "uri": "spotify:episode:1r9BTgSFd5bwl8T6N2uAMH?si=2638079a9eda471e" },
+    { "label": "Flottement", "uri": "spotify:episode:6HSkDf5Tc0jJ12cMwfoVqz" },
+    { "label": "Deux photos", "uri": "spotify:episode:3eHTjZhSHYluKHYjwqGOkm" },
+    { "label": "Serpents et échelles", "uri": "spotify:episode:44hlYshKZAh3N2AlMZPbXV" },
+    { "label": "Où sont passées les étoiles?", "uri": "spotify:episode:3ztuTl89dfzzlAOPrf551L" },
+    { "label": "Vote à vau-l’eau ", "uri": "spotify:episode:4W5Fs56Fw77bs3SYZH1hZZ?si=b5fb376b4d1d44f3" },
+    { "label": "Piano piano", "uri": "spotify:episode:3iqnan74q5FwzUUavwqeGJ" },
+    { "label": "La maison-cathédrale", "uri": "spotify:episode:4DVDFCUOr4bcb9ZC9MVSLX?si=qLWyurIGRNyxsxaN5naodQ" },
+    { "label": "Insomnie automnale", "uri": "spotify:episode:4qF5qLIieQzNf4nQ92BUDd" },
+    { "label": "Rebuts", "uri": "spotify:episode:7xPreWKBuJO8Rs89ICzqSD" },
+    { "label": "Rencontre d’une nuit d’hiver", "uri": "spotify:episode:4jzhsEl2lZShXezyWK5r24" },
+    { "label": "La sanguaine", "uri": "spotify:episode:6b0RhvlhzgnP58Pan1w2rl" },
+    { "label": "Diluer, dilué, diluée", "uri": "spotify:episode:5QXdlNWvDBUXHYk0wZCa25?si=1kAkeYFpR3yFxIUQTN7YMA" },
+    { "label": "Médée souper de famille ", "uri": "spotify:episode:2EJVIuzzZt2lZJ51xm0ZDf" },
+    { "label": "Mon père, l’enfant créole ", "uri": "spotify:episode:2PHuSXF3yNUEusjz3u9UWK?si=EEgKYCWpRji1YZ3v40wTJA" },
+    { "label": "Fringale nocturne", "uri": "spotify:episode:6o2mdp6xzJMCPHayUVWCCS" },
+    { "label": "Perdre le Cap", "uri": "spotify:episode:5mLFlEkF9f1mpkFL3NcV1F" },
+    { "label": "Quinze constats à peine sur notre maison la soue à cochons, notre spectacle qui s’y déroule et nous les deux actrices y vivant", "uri": "spotify:episode:0LRliWLjsvzctXODC5TnyY" },
+    { "label": "Le point de non-retour", "uri": "spotify:episode:18WROzqYgoKJFokWiPW3Lh?si=eQCciX-lQsaTpbpzOTonow" },
+    { "label": "Pussies beware !", "uri": "spotify:episode:5BVyszTbODRPNgjR93RgiS?si=PUz0SqbZRByK_3HNYq9Dog" }
+  ]
+  }
+},
+  {
+    "id": "meditation1",
+    "title": "Méditation guidée",
+    "type": "audio",
+    "duration_min": 31,
+    "level": "",
+    "category": ["Méditation"],
+    "cover": "assets/img/covers/meditation.png",
+    "description": "Méditation guidée pour calmer les pensées et les émotions négatives.",
+    "player": {
+      "kind": "spotify_embed",
+      "src": "https://open.spotify.com/episode/1PDKudW1Su4P4QRNl8qDal"
+    }
+  },
+  {
+    "id": "balado-associations-libres",
+    "title": "Balado Associations libres",
+    "type": "video",
+    "category": ["Balado", "Santé mentale", "coup de coeur"],
+    "cover": "https://img.youtube.com/vi/e138S_DNJ_Q/hqdefault.jpg",
+    "description": "Série vidéo sur la littérature, la culture et la santé mentale, en 6 épisodes.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "e138S_DNJ_Q",
+      "episodes": [
+        { "label": "Épisode 1 - David Goudreault parle littérature, culture et santé mentale", "url": "https://youtu.be/e138S_DNJ_Q?list=PLKpxiwH6XYAukd9SEdBU--ryazwJP5GUz" },
+        { "label": "Épisode 2 - L’accès aux soins en santé mentale", "url": "https://youtu.be/TEE3t5ykjEg?list=PLKpxiwH6XYAukd9SEdBU--ryazwJP5GUz" },
+        { "label": "Épisode 3 - La pair-aidance", "url": "https://youtu.be/zAowVNE3wgI?list=PLKpxiwH6XYAukd9SEdBU--ryazwJP5GUz" },
+        { "label": "Épisode 4 - La psychiatrie communautaire", "url": "https://youtu.be/Hd_n6fj7Gp8?list=PLKpxiwH6XYAukd9SEdBU--ryazwJP5GUz" },
+        { "label": "Épisode 5 - L’art-thérapie", "url": "https://youtu.be/U2caf4aC7TA?list=PLKpxiwH6XYAukd9SEdBU--ryazwJP5GUz" },
+        { "label": "Épisode 6 - La dépression", "url": "https://youtu.be/TCUnz-ijcQI?list=PLKpxiwH6XYAukd9SEdBU--ryazwJP5GUz" }
+      ]
+    }
+  },
+  {
+    "id": "cepsum-pause-active-yoga",
+    "title": "CEPSUM | PAUSE ACTIVE (YOGA)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/vniXRMFJ7yI/hqdefault.jpg",
+    "description": "Séances de yoga pour te délier les jambes, libérer l'esprit et relâcher les tensions.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "vniXRMFJ7yI",
+      "episodes": [
+        { "label": "Yoga actif", "url": "https://youtu.be/vniXRMFJ7yI" },
+        { "label": "Yoga - Salutation au soleil (Audrey)", "url": "https://youtu.be/lYOyxq4pV3w" },
+        { "label": "Yoga - Postures (Audrey)", "url": "https://youtu.be/VQ2_fteRVzE" },
+        { "label": "Salutation au soleil (Christiane)", "url": "https://youtu.be/pKWkp1ne9Uw?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Yoga détente", "url": "https://youtu.be/eklaX6Cx7IQ?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Yoga sur chaise", "url": "https://youtu.be/MvoTuEJmpes?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" }
+      ]
+    }
+  },
+  {
+    "id": "cepsum-pause-active-hiit",
+    "title": "CEPSUM | PAUSE ACTIVE (HIIT)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/cJQTDa65L4I/hqdefault.jpg",
+    "description": "Entraînements HIIT courts et intenses pour t'énergiser rapidement.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "cJQTDa65L4I",
+      "episodes": [
+        { "label": "HIIT", "url": "https://youtu.be/cJQTDa65L4I?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "HIIT cardio", "url": "https://youtu.be/aNKFbMlfyDs?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "HIIT cardio-muscu", "url": "https://youtu.be/a958M-DttEE?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" }
+      ]
+    }
+  },
+  {
+    "id": "cepsum-pause-active-etirements",
+    "title": "CEPSUM | PAUSE ACTIVE (ÉTIREMENTS)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/7ifSvEm6TF4/hqdefault.jpg",
+    "description": "Séances d'étirements ciblées pour le haut du corps, le bas du corps et le dos.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "7ifSvEm6TF4",
+      "episodes": [
+        { "label": "Étirements - Haut du corps", "url": "https://youtu.be/7ifSvEm6TF4?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Étirements - Bas du corps", "url": "https://youtu.be/KrozWa-638U?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Étirements bas du corps (variante)", "url": "https://youtu.be/VybMg_rDaFo?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Étirements du dos", "url": "https://youtu.be/AJxvenSIWIs?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" }
+      ]
+    }
+  },
+  {
+    "id": "cepsum-pause-active-musculation",
+    "title": "CEPSUM | PAUSE ACTIVE (MUSCULATION)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/Eu3yKCnvqVo/hqdefault.jpg",
+    "description": "Capsules de musculation pour le bas du corps, le haut du corps et l'endurance.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "Eu3yKCnvqVo",
+      "episodes": [
+        { "label": "Musculation - Bas du corps", "url": "https://youtu.be/Eu3yKCnvqVo?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Musculation - Haut du corps", "url": "https://youtu.be/0EZNsOQT-II?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Musculation - Force et endurance", "url": "https://youtu.be/bo4LHvxBjwg?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" }
+      ]
+    }
+  },
+  {
+    "id": "cepsum-pause-active-meditation",
+    "title": "CEPSUM | PAUSE ACTIVE (MÉDITATION)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE", "méditation"],
+    "cover": "https://img.youtube.com/vi/-1x7Cj-QmDQ/hqdefault.jpg",
+    "description": "Pauses méditatives guidées pour apaiser l'esprit.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "-1x7Cj-QmDQ",
+      "episodes": [
+        { "label": "Méditation - Christiane", "url": "https://youtu.be/-1x7Cj-QmDQ?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Méditation (variante)", "url": "https://youtu.be/Arud7XhdxiM?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" }
+      ]
+    }
+  },
+  {
+    "id": "cepsum-pause-active-zumba",
+    "title": "CEPSUM | PAUSE ACTIVE (ZUMBA®)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/5B1EAPGRJy8/hqdefault.jpg",
+    "description": "Séances Zumba pour faire le plein d'énergie en bougeant tout le corps.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "5B1EAPGRJy8",
+      "episodes": [
+        { "label": "Zumba - Séance 1", "url": "https://youtu.be/5B1EAPGRJy8?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" },
+        { "label": "Zumba - Séance 2", "url": "https://youtu.be/Oo82sNegtVM?list=PLCfaGpl6OHwRMJTs5NSVoac5XnwBxL6K_" }
+      ]
+    }
+  },
+  {
+    "id": "cepsum-pause-active-turbokick",
+    "title": "CEPSUM | PAUSE ACTIVE (TURBOKICK)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/IxpfAtvAH8o/hqdefault.jpg",
+    "description": "Milena te propose plusieurs mouvements de Turbokick. Bonne pause !",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "IxpfAtvAH8o"
+    }
+  },
+  {
+    "id": "cepsum-pause-active-salsa-fitness",
+    "title": "CEPSUM | PAUSE ACTIVE (SALSA FITNESS)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/Ie9YT147D0Y/hqdefault.jpg",
+    "description": "Milena t'invite à bouger sur un rythme de salsa. Bonne pause !",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "Ie9YT147D0Y"
+    }
+  },
+  {
+    "id": "cepsum-pause-active-strong-nation",
+    "title": "CEPSUM | PAUSE ACTIVE (STRONG NATION™)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/D8WsKsPQeYA/hqdefault.jpg",
+    "description": "Victor t'invite à stimuler tes muscles au rythme de la musique.",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "D8WsKsPQeYA"
+    }
+  },
+  {
+    "id": "cepsum-pause-active-cardio-muscu",
+    "title": "CEPSUM | PAUSE ACTIVE (CARDIO-MUSCU)",
+    "type": "video",
+    "duration_min": 5,
+    "category": ["CEPSUM - PAUSE ACTIVE"],
+    "cover": "https://img.youtube.com/vi/fQju8ES23J8/hqdefault.jpg",
+    "description": "Karina te montre comment activer et tonifier tout ton corps. Bonne pause !",
+    "player": {
+      "kind": "youtube_embed",
+      "youtube_id": "fQju8ES23J8"
+    }
+  }
+]
